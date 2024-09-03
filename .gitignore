@@ -1,0 +1,16 @@
+# Ignore node_modules for both projects
+node_modules/
+
+# Ignore .env files for both projects
+AIChatAssistant/.env
+ai-chat-assistant-backend/.env
+
+# Ignore build and output directories for both projects
+AIChatAssistant/build/
+AIChatAssistant/dist/
+ai-chat-assistant-backend/build/
+ai-chat-assistant-backend/dist/
+
+# Ignore Expo specific files and directories
+AIChatAssistant/.expo/
+AIChatAssistant/.expo-shared/
